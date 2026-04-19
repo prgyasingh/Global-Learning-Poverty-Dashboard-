@@ -20,7 +20,7 @@ This project leverages IBM Cognos Analytics to transform raw data into actionabl
 
 **Name:**[Global child illitercay under 10 worldwide]
 
-**Source:** [(child_illiteracy_by_country.csv (122.72 kB))]
+**Source:** [`data/child_illiteracy_by_country.csv`](./child_illiteracy_by_country.csv)
 
 **Format:** CSV
 
